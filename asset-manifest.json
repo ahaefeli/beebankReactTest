@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/beebankReactTest/static/css/main.6946c2a8.css",
-    "main.js": "/beebankReactTest/static/js/main.383e716b.js",
+    "main.css": "/beebankReactTest/static/css/main.ae34aa2f.css",
+    "main.js": "/beebankReactTest/static/js/main.b418552b.js",
     "static/media/uc2.png": "/beebankReactTest/static/media/uc2.8a0f10830cdcf8bd4797.png",
     "static/media/uc3.png": "/beebankReactTest/static/media/uc3.1a15596630b1ddea5a71.png",
     "static/media/uc.png": "/beebankReactTest/static/media/uc.9a61755e19c1c7bc28ca.png",
     "static/media/beebank-logo-claro.png": "/beebankReactTest/static/media/beebank-logo-claro.d059da6031e02f26e992.png",
     "index.html": "/beebankReactTest/index.html",
-    "main.6946c2a8.css.map": "/beebankReactTest/static/css/main.6946c2a8.css.map",
-    "main.383e716b.js.map": "/beebankReactTest/static/js/main.383e716b.js.map"
+    "main.ae34aa2f.css.map": "/beebankReactTest/static/css/main.ae34aa2f.css.map",
+    "main.b418552b.js.map": "/beebankReactTest/static/js/main.b418552b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6946c2a8.css",
-    "static/js/main.383e716b.js"
+    "static/css/main.ae34aa2f.css",
+    "static/js/main.b418552b.js"
   ]
 }
